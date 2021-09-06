@@ -1,5 +1,7 @@
 # str-similarity
 
+- Reference:- <a href="https://sumn2u.medium.com/string-similarity-comparision-in-js-with-examples-4bae35f13968">Click here</a>
+
 ### Description
 
 <p>
