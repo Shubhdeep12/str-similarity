@@ -1,0 +1,22 @@
+{
+  "name": "str-similarity",
+  "version": "1.0.0",
+  "description": "to check similarity between string using various algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhdeep12/str-similarity.git"
+  },
+  "keywords": [
+    "strSim"
+  ],
+  "author": "Shubhdeep Chhabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubhdeep12/str-similarity/issues"
+  },
+  "homepage": "https://github.com/Shubhdeep12/str-similarity#readme"
+}
